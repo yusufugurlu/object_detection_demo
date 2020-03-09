@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>sag7.jpg</filename>
+	<path>C:\Users\YuSuF\Desktop\TrafikLevhası\Train\sag7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sagaDon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>130</ymin>
+			<xmax>568</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>
